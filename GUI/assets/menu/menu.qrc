@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>title.png</file>
+    <file>menu/start_button.png</file>
+    <file>menu/settings_button.png</file>
+    <file>menu/exit_button.png</file>
+</qresource>
+</RCC>
